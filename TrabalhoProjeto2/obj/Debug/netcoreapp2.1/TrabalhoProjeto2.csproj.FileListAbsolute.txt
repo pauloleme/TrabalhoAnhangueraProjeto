@@ -1,0 +1,11 @@
+C:\Users\paulo\source\repos\TrabalhoProjeto2\TrabalhoProjeto2\obj\Debug\netcoreapp2.1\TrabalhoProjeto2.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\TrabalhoProjeto2\TrabalhoProjeto2\obj\Debug\netcoreapp2.1\TrabalhoProjeto2.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\TrabalhoProjeto2\TrabalhoProjeto2\obj\Debug\netcoreapp2.1\TrabalhoProjeto2.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\TrabalhoProjeto2\TrabalhoProjeto2\obj\Debug\netcoreapp2.1\TrabalhoProjeto2.AssemblyInfo.cs
+C:\Users\paulo\source\repos\TrabalhoProjeto2\TrabalhoProjeto2\bin\Debug\netcoreapp2.1\TrabalhoProjeto2.deps.json
+C:\Users\paulo\source\repos\TrabalhoProjeto2\TrabalhoProjeto2\bin\Debug\netcoreapp2.1\TrabalhoProjeto2.runtimeconfig.json
+C:\Users\paulo\source\repos\TrabalhoProjeto2\TrabalhoProjeto2\bin\Debug\netcoreapp2.1\TrabalhoProjeto2.runtimeconfig.dev.json
+C:\Users\paulo\source\repos\TrabalhoProjeto2\TrabalhoProjeto2\bin\Debug\netcoreapp2.1\TrabalhoProjeto2.dll
+C:\Users\paulo\source\repos\TrabalhoProjeto2\TrabalhoProjeto2\bin\Debug\netcoreapp2.1\TrabalhoProjeto2.pdb
+C:\Users\paulo\source\repos\TrabalhoProjeto2\TrabalhoProjeto2\obj\Debug\netcoreapp2.1\TrabalhoProjeto2.dll
+C:\Users\paulo\source\repos\TrabalhoProjeto2\TrabalhoProjeto2\obj\Debug\netcoreapp2.1\TrabalhoProjeto2.pdb
